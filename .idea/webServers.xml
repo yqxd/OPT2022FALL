@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="21a6c09b-06e9-4ead-951d-3cbbbd5b57fa" name="88zyxu">
+        <fileTransfer rootFolder="/home/zyxu/_projects_/python-project" accessType="SFTP" host="88zyxu" port="20001" sshConfigId="8b878d5a-e1de-4fc8-b11e-b7e957e89461" sshConfig="88zyxu" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

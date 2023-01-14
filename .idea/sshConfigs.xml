@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="88zyxu" id="8b878d5a-e1de-4fc8-b11e-b7e957e89461" keyPath="C:\Users\xuzhe\.ssh\id_ecdsa" port="20001" customName="88zyxu" nameFormat="CUSTOM" username="zyxu" useOpenSSHConfig="true">
+        <option name="customName" value="88zyxu" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
